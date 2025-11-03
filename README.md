@@ -40,6 +40,6 @@ Next steps for production:
 - Add CAPTCHA or rate-limiting to prevent spam.
 
 Design choices
-- Theme colors: Royal Blue `#0047AB` and Gold `#FFD700`.
+- Theme colors: Deep Teal `#07305E` and Gold `#FFD700`.
 - Font: Poppins via Google Fonts.
 - Animations: AOS for scroll animations, Feather icons for icons.
